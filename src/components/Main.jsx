@@ -2,7 +2,7 @@ import React from 'react'
 
 function Main() {
     return (
-        <div className="w-full mx-auto sm:px-6 justify-evenly flex-wrap flex">
+        <div className="w-full mx-auto  justify-evenly flex-wrap flex">
             <div className="shadow-xl m-5 rounded-bl-3xl border-l border-t-0 border-r border-b text-bold w-96 flex">
                 <div className="">
                     <img src="/img/food.jpg" className="mx-auto rounded-tr-3xl mb-6 rounded-bl-3xl" alt="" />
