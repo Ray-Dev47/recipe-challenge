@@ -2,7 +2,7 @@ import React from 'react'
 
 function Main() {
     return (
-        <div className="w-full mx-auto my-3 justify-evenly flex-wrap flex">
+        <div className="w-full mx-auto sm:px-9 justify-evenly flex-wrap flex">
             <div className="shadow-xl m-5 rounded-bl-3xl border-l border-t-0 border-r border-b text-bold w-96 flex">
                 <div className="">
                     <img src="/img/food.jpg" className="mx-auto rounded-tr-3xl mb-6 rounded-bl-3xl" alt="" />
@@ -19,10 +19,10 @@ function Main() {
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
-                            <i className="fas fa-star"></i> 
+                            <i className="fas fa-star"></i>
                         </div>
                         <div className="bg-custom-orange rounded-tl-2xl px-11 py-7">
-                        <i className="fas fa-plus text-white"></i>
+                            <i className="fas fa-plus text-white"></i>
                         </div>
                     </div>
                 </div>
@@ -43,10 +43,10 @@ function Main() {
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
-                            <i className="fas fa-star"></i> 
+                            <i className="fas fa-star"></i>
                         </div>
                         <div className="bg-custom-orange rounded-tl-2xl px-11 py-7">
-                        <i className="fas fa-plus text-white"></i>
+                            <i className="fas fa-plus text-white"></i>
                         </div>
                     </div>
                 </div>
@@ -67,10 +67,10 @@ function Main() {
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
-                            <i className="fas fa-star"></i> 
+                            <i className="fas fa-star"></i>
                         </div>
                         <div className="bg-custom-orange rounded-tl-2xl px-11 py-7">
-                        <i className="fas fa-plus text-white"></i>
+                            <i className="fas fa-plus text-white"></i>
                         </div>
                     </div>
                 </div>
@@ -91,10 +91,10 @@ function Main() {
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
-                            <i className="fas fa-star"></i> 
+                            <i className="fas fa-star"></i>
                         </div>
                         <div className="bg-custom-orange rounded-tl-2xl px-11 py-7">
-                        <i className="fas fa-plus text-white"></i>
+                            <i className="fas fa-plus text-white"></i>
                         </div>
                     </div>
                 </div>
@@ -115,10 +115,10 @@ function Main() {
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
-                            <i className="fas fa-star"></i> 
+                            <i className="fas fa-star"></i>
                         </div>
                         <div className="bg-custom-orange rounded-tl-2xl px-11 py-7">
-                        <i className="fas fa-plus text-white"></i>
+                            <i className="fas fa-plus text-white"></i>
                         </div>
                     </div>
                 </div>
@@ -139,20 +139,21 @@ function Main() {
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
-                            <i className="fas fa-star"></i> 
+                            <i className="fas fa-star"></i>
                         </div>
                         <div className="bg-custom-orange rounded-tl-2xl px-11 py-7">
-                        <i className="fas fa-plus text-white"></i>
+                            <i className="fas fa-plus text-white"></i>
                         </div>
                     </div>
                 </div>
             </div>
-
             <div className="">
-
+                <button className="bg-custom-orange mt-10 text-white font-bold py-3 px-10 rounded-full">
+                    Learn More
+                </button>
             </div>
-            
-            
+
+
 
 
         </div>
